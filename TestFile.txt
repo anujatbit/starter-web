@@ -1,20 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMK president M.K.Stalin underwent a minor surgical procedure for removal of a cyst from his right thigh at 
-Apollo Hospitals. He will be discharged this afternoon, according to a statement issued by the hospital on 
-Thursday.Mr. Stalin was admitted to Apollo Hos
-
-
-
+Raft is a consensus algorithmfor managing a replicated
+log. It produces a result equivalent to (multi-)Paxos, and
+it is as efficient as Paxos, but its structure is different
+from Paxos; this makes Raft more understandable than
+Paxos and also provides a better foundation for building
+practical systems. In order to enhance understandability,
+Raft separates the key elements of consensus, such as
+leader election, log replication, and safety, and it enforces
+a stronger degree of coherency to reduce the number of
+states that must be considered.
