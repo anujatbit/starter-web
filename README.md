@@ -6,3 +6,8 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 THIS IS GIT SIMPLE PROJECT
 Sample website with plenty of files for demos
+## GIT Comparing
+New data isrequried
+
+##GitHub Content
+Compatisonwith repo
